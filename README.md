@@ -9,10 +9,6 @@ This is the third project for the Udacity Full Stack Nanodegree. In this project
 
 A Reporting page that prints out reports in a plain text format based on the data in the database.This reporting tool is a python program using the `psycopg2` module to connect to the database.
 
-## Installation
-
-There are some dependancies and a few instructions on how to run the application.
-
 ## Requirements
 
 1. Python
