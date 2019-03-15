@@ -126,4 +126,3 @@ If your command prompt does not start with vagrant after typing vagrant ssh then
 ### Output
 ![logopt.png](https://github.com/yelchuriaakanksha/fsnd-logs/blob/master/logopt.png)
 
-
