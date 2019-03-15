@@ -128,6 +128,6 @@ Views were created to answer the  queries in the project with the purpose of lea
 If your command prompt does not start with vagrant after typing vagrant ssh then please try the winpty vagrant ssh on your Windows system.
 
 ### Output
-![logopt.png]()
+![logopt.png](https://github.com/yelchuriaakanksha/fsnd-logs/blob/master/logopt.png)
 
 
